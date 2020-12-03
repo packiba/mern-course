@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "packiba82tk15",
+  "baseUrl": "http://localhost:5000",
+  "mongoUri": "mongodb+srv://packiba:pv8291@cluster-freeway.ftli0.mongodb.net/app?retryWrites=true&w=majority"
+}
